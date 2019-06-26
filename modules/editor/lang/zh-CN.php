@@ -96,6 +96,7 @@ $lang->edit['emoticon'] = '表情图标';
 $lang->edit['upload'] = '上传';
 $lang->edit['upload_file'] = '上传附件';
 $lang->edit['link_file'] = '插入附件';
+$lang->edit['delete_selected'] = '删除所选附件';
 $lang->edit['icon_align_article'] = '占一个段落';
 $lang->edit['icon_align_left'] = '文本左侧';
 $lang->edit['icon_align_middle'] = '居中对齐';
